@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844010931817",
+    "project_id": "net4207-stock-inventory",
+    "storage_bucket": "net4207-stock-inventory.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844010931817:android:f081caaba7e8cb118ac4f8",
+        "android_client_info": {
+          "package_name": "com.example.stock_inventory_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmK1wATBj50mKj91bxQ9LWwQTTmOItAMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
